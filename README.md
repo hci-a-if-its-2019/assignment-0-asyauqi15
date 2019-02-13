@@ -18,9 +18,19 @@ You can see the website on this [KCV](http://kcv.if.its.ac.id)
    - **Image in Table**
    In the organizational structure table, there are differences in displaying photos. some have a box shape, some have a round shape, and some have different background.
    ### 1.2 Suggestion
-   fix what was mentioned earlier.
+   Fix what was mentioned earlier.
    ### 1.3 Demo
    (soon)
 
 ## 2. Washabi.id
+You can see the website on this [Washabi.id](http://washabi.id)
   ### 2.1 Bad Things
+  - **Image Portofolio**
+  The images have different sizes and have different filters randomly.
+  ### 2.2 Suggestion
+  The size of the images is equated, or made a pattern.
+  ### 2.3. Demo
+  (soon)
+  
+## 3. Captain Marvel
+You can see the website on this [Captain Marvel](http://marvel.com/captainmarvel)
