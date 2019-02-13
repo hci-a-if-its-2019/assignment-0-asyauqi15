@@ -34,3 +34,14 @@ You can see the website on this [Washabi.id](http://washabi.id)
   
 ## 3. Captain Marvel
 You can see the website on this [Captain Marvel](http://marvel.com/captainmarvel)
+   ### 3.1 Bad Things
+   - **Content Ratio**
+   Lots of empty space. The contents only fill a small portion of the width.
+   - **Too Many Colors**
+   The color used is too much, and not suitable with the background.
+   - **Too Many Moving Objects**
+   The objects contained on this page are very numerous, and move. Things like this can make people who see their website become annoyed, including me.
+   ### 3.2 Suggestion
+   Actually I can't give it an suggestion, because the bad things in this website was the concept on their website to attract many people and give nostalgia to people who open their website.
+   ### 3.3 Demo
+   (soon)
