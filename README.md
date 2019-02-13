@@ -1,5 +1,5 @@
-Ahmad Syauqi
-05111740000093
+Name: Ahmad Syauqi
+NRP : 05111740000093
 
 # Assignment 0: Examples of Bad User Interface
 
