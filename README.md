@@ -9,6 +9,9 @@ NRP   : 05111740000093
 - [Captain Marvel](#3-Captain-Marvel)
 
 ## 1. KCV
+![kcv1](/Media/Assignment%200/Untitled3.png)
+![kcv2](/Media/Assignment%200/Untitled4.png)
+<br><br>
 You can see the website on this [KCV](http://kcv.if.its.ac.id)
    ### 1.1 Bad Things
    - **Top Navbar**
@@ -23,6 +26,8 @@ You can see the website on this [KCV](http://kcv.if.its.ac.id)
    (soon)
 
 ## 2. Washabi.id
+![washabi](/Media/Assignment%200/Untitled5.png)
+<br><br>
 You can see the website on this [Washabi.id](http://washabi.id)
   ### 2.1 Bad Things
   - **Image Portofolio**
@@ -33,6 +38,8 @@ You can see the website on this [Washabi.id](http://washabi.id)
   (soon)
   
 ## 3. Captain Marvel
+![marvel](/Media/Assignment%200/Untitled6.png)
+<br><br>
 You can see the website on this [Captain Marvel](http://marvel.com/captainmarvel)
    ### 3.1 Bad Things
    - **Content Ratio**
