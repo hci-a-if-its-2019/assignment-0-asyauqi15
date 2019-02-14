@@ -23,7 +23,7 @@ You can see the website on this [KCV](http://kcv.if.its.ac.id)
    ### 1.2 Suggestion
    Fix what was mentioned earlier.
    ### 1.3 Demo
-   ![video](https://drive.google.com/file/d/1lYM8Tq5oFNYF8Ga6SitGQhxEDcWA4cqt/view?usp=sharing)
+   [video](https://drive.google.com/file/d/1lYM8Tq5oFNYF8Ga6SitGQhxEDcWA4cqt/view?usp=sharing)
 
 ## 2. Washabi.id
 ![washabi](/Media/Assignment%200/Untitled5.png)
@@ -35,7 +35,7 @@ You can see the website on this [Washabi.id](http://washabi.id)
   ### 2.2 Suggestion
   The size of the images is equated, or made a pattern.
   ### 2.3. Demo
-  (soon)
+  (Maybe soon)
   
 ## 3. Captain Marvel
 ![marvel](/Media/Assignment%200/Untitled6.png)
@@ -51,4 +51,4 @@ You can see the website on this [Captain Marvel](http://marvel.com/captainmarvel
    ### 3.2 Suggestion
    Actually I can't give it an suggestion, because the bad things in this website maybe was the concept on their website to attract many people and give nostalgic sensation to people who open their website.
    ### 3.3 Demo
-   (soon)
+   (Maybe soon)
