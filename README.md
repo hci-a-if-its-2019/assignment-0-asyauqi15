@@ -23,7 +23,7 @@ You can see the website on this [KCV](http://kcv.if.its.ac.id)
    ### 1.2 Suggestion
    Fix what was mentioned earlier.
    ### 1.3 Demo
-   (soon)
+   ![video](https://drive.google.com/file/d/1lYM8Tq5oFNYF8Ga6SitGQhxEDcWA4cqt/view?usp=sharing)
 
 ## 2. Washabi.id
 ![washabi](/Media/Assignment%200/Untitled5.png)
